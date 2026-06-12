@@ -1,0 +1,11 @@
+{
+  "version":"3.8.5.100",
+  "url":"https://github.com/machariabmw/POS-Service-Console-Updater/releases/download/v3.8.4/Ray-Mac.Service.Console.3.8.5.100.exe",
+  "notes": [
+    "Added An Auto-Updater",
+    "Added The Room Service",
+    "Added Service to Inclusive & Exclusive Bills",
+    "Resolved Windows Hello (Sign In & User Accounts Mapping)",
+    "NB::WINDOWS HELLO IS ONLY FOR USABLE ON DEVICES THAT SUPPORT IT!"
+  ]
+}
