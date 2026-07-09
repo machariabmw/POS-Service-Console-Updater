@@ -1,10 +1,10 @@
 {
-  "version": "3.8.5.430",
-  "url": "https://github.com/machariabmw/POS-Service-Console-Updater/releases/download/v3.8.5/Ray-Mac.Service.Console.3.8.5.430.exe",
+  "version": "3.8.5.440",
+  "url": "https://github.com/machariabmw/POS-Service-Console-Updater/releases/download/v3.8.5/Ray-Mac.Service.Console.3.8.5.440.exe",
   "notes": [
-    "Added Complimentary Bills",
-    "Added Complimentary Bill SMS Notifications",
-    "Added Waiter Bills Preview Summary",
-    "Added Multi-Printer Department Printing"
+    "Added Service Console Bills Clearance With All Payment Options.",
+    "Introduced MpesaPrompt For the Service Console",
+    "Added Lock For Users Who Do Not Want To Use Console For Payments",
+    "Added License Control Lock"
   ]
 }
