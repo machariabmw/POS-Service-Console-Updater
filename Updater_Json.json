@@ -1,10 +1,10 @@
 {
-  "version": "3.8.5.450",
-  "url": "https://github.com/machariabmw/POS-Service-Console-Updater/releases/download/v3.8.5/Ray-Mac.Service.Console.3.8.5.450.exe",
+  "version": "3.8.5.460",
+  "url": "https://github.com/machariabmw/POS-Service-Console-Updater/releases/download/v3.8.5/Ray-Mac.Service.Console.3.8.5.460.exe",
   "notes": [
     "Added Service Console Dynamic Prices Printing",
     "Added Receipt Reprint Mechanism",
-    "Added Lock For Users Who Do Not Want To Use Console For Payments",
+    "Resolved Order Printing Bug + Optimized Printing Time",
     "Added License Control Lock"
   ]
 }
