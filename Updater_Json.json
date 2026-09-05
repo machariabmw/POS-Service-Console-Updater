@@ -1,8 +1,9 @@
 {
-  "version": "3.8.5.480",
-  "url": "https://github.com/machariabmw/POS-Service-Console-Updater/releases/download/v3.8.5/Ray-Mac.Service.Console.3.8.5.480.exe",
+  "version": "3.8.5.490",
+  "url": "https://github.com/machariabmw/POS-Service-Console-Updater/releases/download/v3.8.5/Ray-Mac.Service.Console.3.8.5.490.exe",
   "notes": [
     "Added Service Console Dynamic Prices Printing",
+    "Introduced Multiple Service Consoles Simultaneous-Service",
     "Added Receipt Reprint Mechanism",
     "Resolved Order Printing Bug + Optimized Printing Time",
     "Refactored Hidden Category Display",
